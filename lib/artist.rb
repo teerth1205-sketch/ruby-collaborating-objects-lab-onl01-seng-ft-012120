@@ -23,7 +23,7 @@ class Artist
     end 
     else
     news  = self.new(art) 
-    @@all << news
+
     news 
     end 
     
