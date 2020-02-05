@@ -24,6 +24,7 @@ class Artist
     else
     news  = self.new(art) 
     @@all << news
+    news 
     end 
     
     
